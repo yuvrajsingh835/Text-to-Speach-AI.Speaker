@@ -15,18 +15,23 @@ Works on Windows and Linux.
 Easy-to-use command-line interface.
 
 🔧 Installation
+
 To run this project, first install the required dependencies:
 
-bash
+
 pip install pyttsx3
+
 📜 Usage
+
 Run the script and enter the text you want the system to speak:
 
-bash
+
 python main.py
+
 Then, type any text and press Enter. To exit, type quit.
 
 👨‍💻 Contributing
+
 Want to improve this project? Feel free to fork and submit a pull request!
 
 Fork the repository.
@@ -40,4 +45,5 @@ Commit and push (git commit -m "Added new feature" & git push origin feature-bra
 Submit a pull request.
 
 📜 License
+
 This project is open-source under the MIT License.
