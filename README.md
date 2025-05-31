@@ -1,8 +1,11 @@
 Text-to-Speech AI Speaker
+
 📢 Robo Speaker 1.0
+
 A simple Python-based text-to-speech (TTS) application that converts text input into speech using the pyttsx3 library.
 
 🚀 Features
+
 Converts text to speech in real-time.
 
 Uses pyttsx3 for offline speech synthesis.
